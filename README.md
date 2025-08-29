@@ -11,7 +11,8 @@ or opened interactively in [Jupyter](https://jupyter.org/).
 These notebooks require [evcxr_jupyter](https://github.com/google/evcxr/blob/master/evcxr_jupyter/README.md)
 (Rust kernel Rust for Jupyter).
 
-I also use [RISE](https://github.com/damianavila/RISE) to display them in slide mode.
+I also use [RISE](https://github.com/damianavila/RISE) to display them in slide mode,
+which only works with old Jupyter notebooks (`nbclassic`).
 
 ## License
 
